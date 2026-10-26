@@ -1,6 +1,6 @@
 ---
 title: "Blindspot — Proposal"
-subtitle: "UGREEN Hackathon 2026 on AI NAS · Track: Open Innovation"
+subtitle: "UGREEN Hackathon 2026 on AI NAS · Track: Explore Your Imagination (Open Innovation)"
 ---
 
 **Entrant:** Manass Kusko (individual) · **Skill package:** blindspot.zip
