@@ -1,0 +1,4 @@
+__pycache__/
+test/work/
+*.zip
+.DS_Store
